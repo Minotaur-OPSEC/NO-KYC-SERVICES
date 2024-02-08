@@ -3,11 +3,17 @@ Classificação de serviços sem KYC:
 VPN:
 
 IVPN: https://www.ivpn.net/: https://www.ivpn.net/ (9)
+
 Mullvad: https://mullvad.net/: https://mullvad.net/ (8)
+
 Xeovo VPN: https://xeovo.com/: https://xeovo.com/ (8)
+
 AirVPN: https://airvpn.org/: https://airvpn.org/ (8)
+
 ProtonVPN: https://protonvpn.com/: https://protonvpn.com/ (8)
+
 Safing SPN: (8) (Link não fornecido)
+
 Azire: https://www.azirevpn.com/: https://www.azirevpn.com/ (8)
 
 Hospedagem (Hosting):
