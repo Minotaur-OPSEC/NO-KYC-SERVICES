@@ -39,6 +39,8 @@ Allark: https://allark.io
 
 Cryptoho.st: https://kycnot.me/static/img/cryptoho.st.webp
 
+Kyun: https://kyun.host
+
 
 ## Telefone (Phone):
 
@@ -78,30 +80,27 @@ Swapzone: https://swapzone.io
 
 ## Agregadores (Aggregators):
 
-Trocador:
+Trocador: https://trocador.app/en
 
-Coincards:
+Coincards: https://coincards.com
 
-Orangefren:
+Orangefren: https://orangefren.com
 
-Kyun: 
 
 ## Bens (Goods):
 
-Anonshop:
+Anonshop: https://anonshop.app
 
-Monero Market:
+Digitalgoods: https://digitalgoods.proxysto.re/en
 
-Digitalgoods:
+Cryptopostage: https://cryptopostage.info
 
-Cryptopostage:
-
-LNN Stores:
+LNN Stores: https://lightningnetworkstores.com
 
 
 ## Outros (Other):
 
-Printing Service:
+Printing Service: https://druck.proxysto.re
 
-Cryptostamps:
+Cryptostamps: https://cryptostamps.biz
 
