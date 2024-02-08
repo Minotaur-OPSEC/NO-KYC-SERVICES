@@ -61,17 +61,17 @@ Textverified: https://www.textverified.com
 
 ## Ferramentas (Tools):
 
-Intercambio.app:
+Intercambio.app: https://intercambio.app
 
-Reiya:
+Reiya: https://reiya.io
 
-XMR Starter:
+XMR Starter: https://xmrstarter.com
 
-LNProxy:
+LNProxy: https://lnproxy.org
 
-Donate4Fun:
+Donate4Fun: https://donate4.fun
 
-Houdini Swap:
+Houdini Swap: https://houdiniswap.com
 
 Swapzone: https://swapzone.io
 
