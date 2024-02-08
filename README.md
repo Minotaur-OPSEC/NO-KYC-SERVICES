@@ -42,41 +42,66 @@ Cryptoho.st: https://kycnot.me/static/img/cryptoho.st.webp
 
 ## Telefone (Phone):
 
-SMSpool: 
-Monero SMS: 
-Crypton: 
-SMS4Sats: 
-Anycolo: 
-JMP: 
-Juicysms: 
-Textverified: 
+SMSpool:
+
+Monero SMS:
+
+Crypton:
+
+SMS4Sats:
+
+Anycolo:
+
+JMP:
+
+Juicysms:
+
+Textverified:
+
 
 ## Ferramentas (Tools):
 
-Intercambio.app: 
-Reiya: 
-XMR Starter: 
-LNProxy: 
-Donate4Fun: 
-Houdini Swap: 
-Swapzone: https://swapzone.io/: https://swapzone.io/ 
+Intercambio.app:
+
+Reiya:
+
+XMR Starter:
+
+LNProxy:
+
+Donate4Fun:
+
+Houdini Swap:
+
+Swapzone: https://swapzone.io
+
 
 ## Agregadores (Aggregators):
 
-Trocador: 
-Coincards: 
-Orangefren: 
+Trocador:
+
+Coincards:
+
+Orangefren:
+
 Kyun: 
 
 ## Bens (Goods):
 
-Anonshop: 
-Monero Market: 
-Digitalgoods: 
-Cryptopostage: 
-LNN Stores: 
+Anonshop:
+
+Monero Market:
+
+Digitalgoods:
+
+Cryptopostage:
+
+LNN Stores:
+
 
 ## Outros (Other):
 
-Printing Service: 
-Cryptostamps: 
+Printing Service:
+
+Cryptostamps:
+
