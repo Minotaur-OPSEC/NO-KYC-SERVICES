@@ -15,7 +15,7 @@ ProtonVPN: https://protonvpn.com
 
 Safing SPN: https://safing.io/spn
 
-Azire: https://www.azirevpn.com/: https://www.azirevpn.com/ (8)
+Azire: https://www.azirevpn.com
 
 
 Hospedagem (Hosting):
