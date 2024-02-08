@@ -1,33 +1,35 @@
 Classificação de serviços sem KYC:
 
+
 VPN:
 
-IVPN: https://www.ivpn.net/: https://www.ivpn.net/ (9)
+IVPN: https://www.ivpn.net
 
-Mullvad: https://mullvad.net/: https://mullvad.net/ (8)
+Mullvad: https://mullvad.net
 
-Xeovo VPN: https://xeovo.com/: https://xeovo.com/ (8)
+Xeovo VPN: https://xeovo.com
 
-AirVPN: https://airvpn.org/: https://airvpn.org/ (8)
+AirVPN: https://airvpn.org
 
-ProtonVPN: https://protonvpn.com/: https://protonvpn.com/ (8)
+ProtonVPN: https://protonvpn.com
 
-Safing SPN: (8) (Link não fornecido)
+Safing SPN: https://safing.io/spn
 
 Azire: https://www.azirevpn.com/: https://www.azirevpn.com/ (8)
 
+
 Hospedagem (Hosting):
 
-NiceVPS: (8) (Link não fornecido)
-Njalla: https://njal.la/: https://njal.la/ (8)
-UDN: (8) (Link não fornecido)
-Incognet: (8) (Link não fornecido)
-Cockbox: (8) (Link não fornecido)
-Servers Guru: (8) (Link não fornecido)
-Hostiko: (8) (Link não fornecido)
-Flokinet: (7) (Link não fornecido)
-Allark: (NA) (Link não fornecido)
-Cryptoho.st: (NA) (Link não fornecido)
+NiceVPS: https://nicevps.net
+Njalla: https://njal.la
+UDN: https://www.urdn.com.ua/index.html
+Incognet: https://incognet.io
+Cockbox: https://cockbox.org
+Servers Guru: https://servers.guru
+Hostiko: https://hostiko.com.ua/en
+Flokinet: https://flokinet.is
+Allark: https://allark.io
+Cryptoho.st: https://kycnot.me/static/img/cryptoho.st.webp
 
 Telefone (Phone):
 
