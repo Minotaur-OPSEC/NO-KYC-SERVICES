@@ -21,15 +21,25 @@ Azire: https://www.azirevpn.com
 Hospedagem (Hosting):
 
 NiceVPS: https://nicevps.net
+
 Njalla: https://njal.la
+
 UDN: https://www.urdn.com.ua/index.html
+
 Incognet: https://incognet.io
+
 Cockbox: https://cockbox.org
+
 Servers Guru: https://servers.guru
+
 Hostiko: https://hostiko.com.ua/en
+
 Flokinet: https://flokinet.is
+
 Allark: https://allark.io
+
 Cryptoho.st: https://kycnot.me/static/img/cryptoho.st.webp
+
 
 Telefone (Phone):
 
