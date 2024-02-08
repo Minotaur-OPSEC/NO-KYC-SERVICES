@@ -1,7 +1,6 @@
-Classificação de serviços sem KYC:
+# Service classification without KYC
 
-
-VPN:
+## VPN:
 
 IVPN: https://www.ivpn.net
 
@@ -18,7 +17,7 @@ Safing SPN: https://safing.io/spn
 Azire: https://www.azirevpn.com
 
 
-Hospedagem (Hosting):
+## Hospedagem (Hosting):
 
 NiceVPS: https://nicevps.net
 
@@ -41,43 +40,43 @@ Allark: https://allark.io
 Cryptoho.st: https://kycnot.me/static/img/cryptoho.st.webp
 
 
-Telefone (Phone):
+## Telefone (Phone):
 
-SMSpool: (8) (Link não fornecido)
-Monero SMS: (8) (Link não fornecido)
-Crypton: (8) (Link não fornecido)
-SMS4Sats: (8) (Link não fornecido)
-Anycolo: (8) (Link não fornecido)
-JMP: (8) (Link não fornecido)
-Juicysms: (8) (Link não fornecido)
-Textverified: (8) (Link não fornecido)
+SMSpool: 
+Monero SMS: 
+Crypton: 
+SMS4Sats: 
+Anycolo: 
+JMP: 
+Juicysms: 
+Textverified: 
 
-Ferramentas (Tools):
+## Ferramentas (Tools):
 
-Intercambio.app: (8) (Link não fornecido)
-Reiya: (8) (Link não fornecido)
-XMR Starter: (8) (Link não fornecido)
-LNProxy: (8) (Link não fornecido)
-Donate4Fun: (8) (Link não fornecido)
-Houdini Swap: (7) (Link não fornecido)
-Swapzone: https://swapzone.io/: https://swapzone.io/ (6)
+Intercambio.app: 
+Reiya: 
+XMR Starter: 
+LNProxy: 
+Donate4Fun: 
+Houdini Swap: 
+Swapzone: https://swapzone.io/: https://swapzone.io/ 
 
-Agregadores (Aggregators):
+## Agregadores (Aggregators):
 
-Trocador: (8) (Link não fornecido)
-Coincards: <invalid URL removed>: <invalid URL removed> (6)
-Orangefren: (8) (Link não fornecido)
-Kyun: (8) (Link não fornecido)
+Trocador: 
+Coincards: 
+Orangefren: 
+Kyun: 
 
-Bens (Goods):
+## Bens (Goods):
 
-Anonshop: (8) (Link não fornecido)
-Monero Market: (8) (Link não fornecido)
-Digitalgoods: (8) (Link não fornecido)
-Cryptopostage: (NA) (Link não fornecido)
-LNN Stores: (NA) (Link não fornecido)
+Anonshop: 
+Monero Market: 
+Digitalgoods: 
+Cryptopostage: 
+LNN Stores: 
 
-Outros (Other):
+## Outros (Other):
 
-Printing Service: (8) (Link não fornecido)
-Cryptostamps: (NA) (Link não fornecido)
+Printing Service: 
+Cryptostamps: 
