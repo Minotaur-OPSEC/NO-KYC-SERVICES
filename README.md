@@ -42,21 +42,21 @@ Cryptoho.st: https://kycnot.me/static/img/cryptoho.st.webp
 
 ## Telefone (Phone):
 
-SMSpool:
+SMSpool: https://www.smspool.net
 
-Monero SMS:
+Monero SMS: https://monerosms.com
 
-Crypton:
+Crypton: https://crypton.sh
 
-SMS4Sats:
+SMS4Sats: https://sms4sats.com
 
-Anycolo:
+Anycolo: https://anycolo.net
 
-JMP:
+JMP: https://jmp.chat
 
-Juicysms:
+Juicysms: https://juicysms.com
 
-Textverified:
+Textverified: https://www.textverified.com
 
 
 ## Ferramentas (Tools):
