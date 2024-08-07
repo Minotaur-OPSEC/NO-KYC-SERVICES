@@ -5,7 +5,7 @@
 
 ## VPN:
 
-IVPN: https://www.ivpn.net
+IVPN: https://www.ivpn.net 
 
 Mullvad: https://mullvad.net
 
